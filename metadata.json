@@ -1,0 +1,8 @@
+{
+  "name": "DevClub Clone",
+  "description": "Site institucional do DevClub com design moderno, animações interativas em GSAP, carrossel de logos, bento-grid de recursos e gráficos de remuneração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
