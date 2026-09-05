@@ -104,15 +104,20 @@ npm run dev
 
 <div align="center"> 
   <h3>🖥️ Desktop</h3> 
-  <img src="LINK_DA_IMAGEM_DESKTOP_1"/>
+  <img src="https://github.com/leoantunes99/devclub_site/blob/main/assets/images/desktop1.webp?raw=true"/>
   <br>
   <br>
-  <img src="LINK_DA_IMAGEM_DESKTOP_2"/>
+  <img src="https://github.com/leoantunes99/devclub_site/blob/main/assets/images/desktop2.webp?raw=true"/>
+  <br>
+  <br>
+  <img src="https://github.com/leoantunes99/devclub_site/blob/main/assets/images/desktop3.webp?raw=true"/>
 </div>
 <br/>
 <div align="center">
   <h3>📱 Mobile</h3>
-  <img src="LINK_DA_IMAGEM_MOBILE_1"/>
+  <img src="https://github.com/leoantunes99/devclub_site/blob/main/assets/images/mobile1.webp?raw=true" width=300px"/>
+  <img src="https://github.com/leoantunes99/devclub_site/blob/main/assets/images/mobile2.webp?raw=true" width=300px/>
+  <img src="https://github.com/leoantunes99/devclub_site/blob/main/assets/images/mobile3.webp?raw=true" width=300px/>
 </div>
 
 ---
